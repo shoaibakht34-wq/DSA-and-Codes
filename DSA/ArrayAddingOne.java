@@ -5,7 +5,7 @@ import java.util.Collections;
 import java.util.Vector;
 
 public class ArrayAddingOne {
-   public static void main(String[] args) {
+   public static void main(String1[] args) {
     ArrayList<Integer> arr=new ArrayList<>();
     arr.add(9);
     arr.add(9);

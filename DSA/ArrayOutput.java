@@ -1,7 +1,7 @@
 package DSA;
 import java.util.Scanner;
 public class ArrayOutput {
-    public static void main(String[] args) {
+    public static void main(String1[] args) {
   //      int arr[]={5,-8,2,67,43,-97};
    //     for(int i=0;i<arr.length;i++){
    //         System.out.print(arr[i]+" ");

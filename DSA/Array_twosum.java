@@ -1,7 +1,7 @@
 package DSA;
 import java.util.Scanner;
 public class Array_twosum {
-    public static void main(String[] args) {
+    public static void main(String1[] args) {
        Scanner scan= new Scanner(System.in);
        System.out.println("Enter the Array size");
        int n=scan.nextInt(); 

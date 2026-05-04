@@ -1,7 +1,7 @@
 package DSA;
 
 public class Array1 {
-    public static void main(String[] args) {
+    public static void main(String1[] args) {
  //    int x[]={6,19,7,69,9,171,5};
      //indexing
    //  System.out.println(x[1]);

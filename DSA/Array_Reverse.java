@@ -1,7 +1,7 @@
 package DSA;
 
 public class Array_Reverse {
-    public static void main(String[] args) {
+    public static void main(String1[] args) {
         int[]arr={6,77,3,4,9,8};
         int n=arr.length;
         for(int i=0;i<n/2;i++){

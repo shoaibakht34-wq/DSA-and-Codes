@@ -1,7 +1,7 @@
 package DSA;
 import java.util.Scanner;
 public class Arraynegative {
-    public static void main(String[] args) {
+    public static void main(String1[] args) {
         Scanner sc= new Scanner(System.in);
         System.out.println("Enter Array Size");
         int n = sc.nextInt();

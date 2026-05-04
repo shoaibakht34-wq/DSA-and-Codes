@@ -1,7 +1,7 @@
 package DSA;
 //rotate the array where d=3 
 public class Array_Rotate {
-    public static void main(String[] args) {
+    public static void main(String1[] args) {
         int []arr={6,8,1,2,4,9,0};
         int d=3;
         int n= arr.length;

@@ -1,7 +1,7 @@
 package DSA;
 //segerating 0's in the left and 1's in the right
 public class Array_Segregate {
-    public static void main(String[] args) {
+    public static void main(String1[] args) {
        int []arr={0,1,0,1,1,0,0,1,0};
       // int numberofzeros=0;
       // int numberofones=0;

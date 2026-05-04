@@ -1,7 +1,7 @@
 package DSA;
 //Print the second Maximum element in the array
 public class ArraySecondMaxElement {
-    public static void main(String[] args) {
+    public static void main(String1[] args) {
         int[]arr= {7,1,12,14,67,54,8};
         int Max= Integer.MIN_VALUE;
         for(int i=0;i<arr.length;i++){

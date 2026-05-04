@@ -1,7 +1,7 @@
 package DSA;
 
 public class Minvalue_in_Array {
-    public static void main(String[] args) {
+    public static void main(String1[] args) {
         int[]arr={3,2,8,4,9,1,4};
         int min=Integer.MAX_VALUE;
         for(int i=0;i<arr.length;i++){

@@ -1,7 +1,7 @@
 package DSA;
 import java.util.Arrays;
 public class Arrayssortbuiltin {
-    public static void main(String[] args) {
+    public static void main(String1[] args) {
         int []arr={3,1,2,-10,7,6};
         print (arr);
         Arrays.sort(arr);
