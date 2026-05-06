@@ -12,11 +12,9 @@ public class arraycolumnwise {
             }
         }
         for(j=0;j<4;j++){
-            
+            int sum=0;
             for(i=0;i<3;i++){
-                int sum=0;
-                sum=sum=a[i][j];
-
+                sum=sum+a[i][j];
             }
             System.out.println("sum of column"+j+"="+sum);
         }
