@@ -11,5 +11,6 @@ public class HashMap {
         set.remove(21);
         System.out.println(set.contains(21));
         System.out.println(set.size());
+        System.out.println(set);
     }
 }
