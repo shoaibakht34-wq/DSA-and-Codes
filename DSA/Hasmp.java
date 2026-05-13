@@ -6,6 +6,9 @@ public class Hasmp {
         map.put("Shoaib", 1);
         map.put("Aditya", 19);
         map.put("Akhtar",12 );
-        System.out.println(map+" "+map.size() );
+        //System.out.println(map+" "+map.size() );
+        for(String key: map.keySet()){
+            System.out.println(key+" "+map.get(key));
+        }
     }
 }
