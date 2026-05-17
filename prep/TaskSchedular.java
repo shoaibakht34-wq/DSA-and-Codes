@@ -1,0 +1,24 @@
+package prep;
+
+public class TaskSchedular {
+    public static void main(String []args){
+        char tasks[]={'A','A','A','B','B','B'};
+        int n=2;
+        int freq[]=new int[26];
+        for(char ch:tasks){
+            freq[ch-'A']++;
+        }
+        int maxFreq=0;
+        for(int f:freq){
+            maxFreq=Math.max(maxFreq, f);
+        }
+        int maxCount=0;
+        for(int f:freq){
+            if(f==maxFreq){
+                maxCount++;
+            }
+        }
+        int result=Math.max(tasks.length,( maxFreq-1)*(n+1)+maxCount);
+        System.out.println(result);
+    }
+}
